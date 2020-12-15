@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/table-react-app/static/css/main.2c56ea9f.chunk.css",
+    "main.js": "/table-react-app/static/js/main.6eb3157f.chunk.js",
+    "main.js.map": "/table-react-app/static/js/main.6eb3157f.chunk.js.map",
+    "runtime-main.js": "/table-react-app/static/js/runtime-main.f7473bd6.js",
+    "runtime-main.js.map": "/table-react-app/static/js/runtime-main.f7473bd6.js.map",
+    "static/js/2.4947957c.chunk.js": "/table-react-app/static/js/2.4947957c.chunk.js",
+    "static/js/2.4947957c.chunk.js.map": "/table-react-app/static/js/2.4947957c.chunk.js.map",
+    "static/js/3.cfe76635.chunk.js": "/table-react-app/static/js/3.cfe76635.chunk.js",
+    "static/js/3.cfe76635.chunk.js.map": "/table-react-app/static/js/3.cfe76635.chunk.js.map",
+    "index.html": "/table-react-app/index.html",
+    "static/css/main.2c56ea9f.chunk.css.map": "/table-react-app/static/css/main.2c56ea9f.chunk.css.map",
+    "static/js/2.4947957c.chunk.js.LICENSE.txt": "/table-react-app/static/js/2.4947957c.chunk.js.LICENSE.txt",
+    "static/media/caretDown.7eed9ce3.svg": "/table-react-app/static/media/caretDown.7eed9ce3.svg",
+    "static/media/caretUp.e3c9808d.svg": "/table-react-app/static/media/caretUp.e3c9808d.svg",
+    "static/media/search.16d40f58.svg": "/table-react-app/static/media/search.16d40f58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7473bd6.js",
+    "static/js/2.4947957c.chunk.js",
+    "static/css/main.2c56ea9f.chunk.css",
+    "static/js/main.6eb3157f.chunk.js"
+  ]
+}
